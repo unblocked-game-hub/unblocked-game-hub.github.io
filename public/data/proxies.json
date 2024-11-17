@@ -1,0 +1,19 @@
+{
+  "proxies": [
+    {
+      "id": 1,
+      "name": "Retro Bowl",
+      "url": "https://retrobowl.click/"
+    },
+    {
+      "id": 2,
+      "name": "Classroom 999",
+      "url": "https://classroom999.github.io/"
+    },
+    {
+      "id": 3,
+      "name": "UBG 11",
+      "url": "https://ubg11.github.io/"
+    }
+  ]
+}

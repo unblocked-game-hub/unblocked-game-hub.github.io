@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Indie",
+      "slug": "indie",
+      "description": "Creative and unique indie games from independent developers"
+    },
+    {
+      "id": 2,
+      "name": "Sport",
+      "slug": "sport",
+      "description": "Exciting sports and athletic games"
+    },
+    {
+      "id": 3,
+      "name": "Car",
+      "slug": "car",
+      "description": "Racing and driving games featuring cars and vehicles"
+    },
+    {
+      "id": 4,
+      "name": "Action",
+      "slug": "action",
+      "description": "Fast-paced action and adventure games with intense gameplay"
+    },
+    {
+      "id": 5,
+      "name": "Puzzle",
+      "slug": "puzzle",
+      "description": "Brain-teasing puzzle and strategy games"
+    },
+    {
+      "id": 6,
+      "name": "Arcade",
+      "slug": "arcade",
+      "description": "Classic arcade-style games with simple but addictive gameplay"
+    },
+    {
+      "id": 7,
+      "name": "Multiplayer",
+      "slug": "multiplayer",
+      "description": "Games you can play with friends and other players online"
+    },
+    {
+      "id": 8,
+      "name": "Adventure",
+      "slug": "adventure",
+      "description": "Story-driven adventure games with exploration elements"
+    },
+    {
+      "id": 9,
+      "name": "Shooting",
+      "slug": "shooting",
+      "description": "First-person and third-person shooter games"
+    },
+    {
+      "id": 10,
+      "name": "Platform",
+      "slug": "platform",
+      "description": "Classic platformer games with jumping and obstacle challenges"
+    }
+  ]
+}
