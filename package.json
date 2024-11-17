@@ -20,9 +20,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "obfuscate": "javascript-obfuscator dist --output dist-obfuscated",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -43,14 +42,9 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.26.0",
-    "@babel/preset-env": "^7.26.0",
-    "@babel/preset-react": "^7.25.9",
     "autoprefixer": "^10.4.20",
     "babel-loader": "^9.2.1",
     "gh-pages": "^6.2.0",
-    "html-webpack-plugin": "^5.6.3",
-    "javascript-obfuscator": "^4.1.1",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.15"
   }
